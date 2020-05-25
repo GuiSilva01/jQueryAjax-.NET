@@ -87,3 +87,4 @@ C:\Users\guilh\source\repos\jQueryAjax.Net\jQueryAjax.Net\obj\Debug\jQueryAjax.N
 C:\Users\guilh\source\repos\jQueryAjax.Net\jQueryAjax.Net\obj\Debug\jQueryAjax.Net.csproj.CopyComplete
 C:\Users\guilh\source\repos\jQueryAjax.Net\jQueryAjax.Net\obj\Debug\jQueryAjax.Net.dll
 C:\Users\guilh\source\repos\jQueryAjax.Net\jQueryAjax.Net\obj\Debug\jQueryAjax.Net.pdb
+C:\Users\guilh\source\repos\jQueryAjax.Net\jQueryAjax.Net\obj\Debug\jQueryAjax.Net.csprojAssemblyReference.cache
