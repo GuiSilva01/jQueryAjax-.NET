@@ -18,6 +18,8 @@ namespace jQueryAjax.Net.Models
     public partial class Employee
     {
         public int EmployeeID { get; set; }
+
+        [Required(ErrorMessage = "Campo Obrigatório. ")]
         public string Name { get; set; }
         public string Position { get; set; }
         public string Oficce { get; set; }
